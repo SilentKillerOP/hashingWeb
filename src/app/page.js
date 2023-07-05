@@ -155,15 +155,7 @@ export default function Home() {
                   Use our hashing service to generate a hash digest from your
                   chosen passphrase or words.
                 </li>
-                <li>
-                  When prompted for a password on a website or application,
-                  enter the corresponding hash digest instead of the original
-                  passphrase.
-                </li>
-                <li>
-                  Our system will validate the hash digest against the stored
-                  hash, ensuring a secure and seamless authentication process.
-                </li>
+
               </ol>
 
               <p>
